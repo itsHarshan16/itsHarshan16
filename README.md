@@ -1,18 +1,72 @@
-# 💫 About Me:
-# Harshan HB<br><br>Computer Science Student | Software Developer<br><br>I enjoy building applications and solving real-world problems through code.<br><br>🔹 Languages: Java, Python, Dart  <br>🔹 Mobile Development: Flutter  <br>🔹 Exploring: Data Structures, Algorithms, and App Architecture<br><br>Focused on continuous growth and real project experience.<br>
+<!-- ===================== ANIMATED HEADER ===================== -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Harshan+HB;Flutter+Developer+🚀;Problem+Solver+💡;Always+Learning+🔥" />
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshan-hb-314115336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+<h3 align="center">Computer Science Student | Flutter Developer | App Builder</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsHarshan16&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsHarshan16&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsHarshan16&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Passionate about building real-world applications and continuously improving through projects.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itsHarshan16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Computer Science Student  
+- 📱 Flutter Mobile App Developer  
+- 🧠 Learning Data Structures & Algorithms  
+- 🏗 Exploring Clean Architecture  
+- 🎯 Focused on real-world project building  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/harshan-hb-314115336/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,dart,python,c,flutter,firebase,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=itsHarshan16&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=itsHarshan16&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHarshan16&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsHarshan16/itsHarshan16/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsHarshan16&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+<h3 align="center">✨ Consistency Builds Mastery ✨</h3>
